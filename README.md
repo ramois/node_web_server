@@ -13,3 +13,5 @@ Requiere:
 
 ## Tal cual les prometí, después de un increíble 2023 a full Frontend, este año me voy a centrar en el backend y bases de datos. Este curso no solo te enseñará Node.js sino que también abarca Express, MongoDB, PostgreSQL, Docker, Mongoose, Prisma, Railway, Github, entre otros.
 
+1. esto veremos
+
